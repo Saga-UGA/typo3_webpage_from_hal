@@ -12,7 +12,7 @@ $webpage_columns = array(
         'label' => 'Url',
         'config' => array(
             'type' => 'text',
-            'cols' => 20,
+            'cols' => 60,
             'rows' => 3,
         ),
     ),
